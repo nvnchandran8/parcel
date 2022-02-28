@@ -1,6 +1,6 @@
 {
   "name": "parcel",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -17,7 +17,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it --ci"
+    "release": "release-it"
   },
   "release-it": {
     "npm": {
