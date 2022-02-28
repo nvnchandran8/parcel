@@ -22,6 +22,9 @@
   "release-it": {
     "npm": {
       "publish": false
+    },
+    "github": {
+      "release": true
     }
   },
   "keywords": [],
